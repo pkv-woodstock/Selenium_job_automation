@@ -16,8 +16,8 @@ def abort_application():
 
 
 EMAIL = 'pkvstarscream@gmail.com'
-PASSWORD = 'Pkv2509@2002'
-PHONE = '9535819408'
+PASSWORD = '********'
+PHONE = '**********'
 
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_experimental_option("detach", True)
